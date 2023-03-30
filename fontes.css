@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'ssf4';
+    src: url(sources/fontes/SSF4_ABUKET.woff);
+}
+
+@font-face {
+    font-family: 'command';
+    src: url(sources/fontes/PILOT_COMMAND.otf);
+}
